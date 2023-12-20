@@ -24,5 +24,5 @@ Feel free to customize the landing page to fit your specific needs:
 - Add additional sections, features, or links as needed.
 ## Screenshots
 
-![App Screenshot 1](images\Screenshot (5).png)
+![App Screenshot 1](images\Screenshot%20(5).png)
 
