@@ -3,7 +3,6 @@
 
 This repository contains the code for a simple landing page designed for Netflix India. The landing page aims to attract users by showcasing the variety of movies and TV shows available on Netflix. It provides a call-to-action for users to sign up or log in to their Netflix accounts.
 
-
 ## File Structure
 - index.html: The main HTML file that structures the landing page.
 - index.css: The CSS file containing styles for the landing page layout and design.
